@@ -1,3 +1,5 @@
+package blind75;
+
 import java.util.*;
 import java.util.stream.Collectors;
 
