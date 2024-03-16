@@ -1,4 +1,4 @@
-package blind75;
+package blind75.easy;
 
 public class BinarySearch {
     public int search(int[] nums, int target) {

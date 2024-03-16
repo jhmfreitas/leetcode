@@ -1,4 +1,4 @@
-package blind75;
+package blind75.easy;
 
 public class LowestCommonAncestorBST {
     public class TreeNode {

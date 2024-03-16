@@ -1,4 +1,4 @@
-package blind75;
+package blind75.easy;
 
 public class MinimumInRotatedSortedArray {
     public int findMin(int[] nums) {

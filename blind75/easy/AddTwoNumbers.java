@@ -1,4 +1,4 @@
-package blind75;
+package blind75.easy;
 
 /**
  * You are given two non-empty linked lists representing two non-negative integers.

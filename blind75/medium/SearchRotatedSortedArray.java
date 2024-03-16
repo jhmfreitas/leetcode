@@ -1,4 +1,4 @@
-package blind75;
+package blind75.medium;
 
 public class SearchRotatedSortedArray {
     public int search(int[] nums, int target) {

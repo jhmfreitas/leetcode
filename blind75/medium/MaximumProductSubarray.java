@@ -1,4 +1,4 @@
-package blind75;
+package blind75.medium;
 
 public class MaximumProductSubarray {
     // Dynamic programming approach
